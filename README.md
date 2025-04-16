@@ -1,3 +1,4 @@
+![gcp-vision-architecture](gcp-vision-architecture.png)
 # Google Cloud AI Generative Models Demo
 
 This Streamlit application showcases various generative AI capabilities offered by Google Cloud's Vertex AI and GenAI services, including text-to-image generation, image upscaling, image editing, image-to-video generation, and text-to-video generation. It also provides a history of your API calls.
