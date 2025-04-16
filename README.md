@@ -30,22 +30,7 @@ This Streamlit application showcases various generative AI capabilities offered 
     cd <repository_directory>
     ```
 2.  **Install the required Python libraries:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Note: A `requirements.txt` file is not provided in the code. You'll need to create one with the following dependencies based on the import statements in your Python code):*
-    ```
-    streamlit
-    streamlit-pdf-viewer
-    google-cloud-storage
-    google-cloud-pubsub
-    google-cloud-firestore
-    pandas
-    vertexai
-    google-generativeai
-    requests
-    google-auth
-    ```
+    
 3.  **Set the Google Cloud Project ID environment variable (if not directly in the code):**
     ```bash
     export GOOGLE_CLOUD_PROJECT="your-project-id"
